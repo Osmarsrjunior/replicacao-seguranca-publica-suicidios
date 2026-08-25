@@ -1,0 +1,41 @@
+{
+  "n_total_sim_suicidios": 112491,
+  "n_cbo_valido_antes": 60274,
+  "n_cbo_recuperado": 27440,
+  "n_cbo_valido_depois": 87714,
+  "n_seguranca_publica": 1070,
+  "n_seguranca_publica_antes": 432,
+  "n_seguranca_publica_recuperado": 638,
+  "percentual_seg_recuperado": 59.626168224299064,
+  "n_arma_fogo_seg": 663,
+  "percentual_arma_fogo_seg": 61.96261682242991,
+  "n_homens_seg": 1006,
+  "percentual_homens_seg": 94.01869158878505,
+  "idade_mediana_seg": 41.0,
+  "n_modelo_todas_ocupacoes": 68381,
+  "n_modelo_seguranca_publica_privada": 2096,
+  "pm_bm_2017_obitos": 80,
+  "pm_bm_2017_denominador_rais_aprox": 486000,
+  "pm_bm_2017_taxa_100mil_aprox": 16.46090534979424,
+  "pm_pc_2019_sim_reconstruido": 90,
+  "pm_pc_2019_sim_sem_reconstrucao": 30,
+  "pm_pc_2019_fbsp": 91,
+  "or_arma_publica": 18.566276700104115,
+  "or_arma_publica_ic95": [
+    16.051988377003862,
+    21.47438824455274
+  ],
+  "or_arma_publica_p": 0.0,
+  "or_arma_privada": 2.9355886155420623,
+  "or_arma_privada_ic95": [
+    2.535704080396467,
+    3.3985355729493305
+  ],
+  "or_arma_privada_p": 4.224351149637099e-47,
+  "or_arma_publica_vs_privada": 6.435988878978741,
+  "or_arma_publica_vs_privada_ic95": [
+    5.234679779915061,
+    7.912986962310454
+  ],
+  "or_arma_publica_vs_privada_p": 7.971176684986646e-70
+}
