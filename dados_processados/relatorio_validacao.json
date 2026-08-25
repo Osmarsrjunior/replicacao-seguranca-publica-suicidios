@@ -1,0 +1,15 @@
+{
+  "status": "APROVADO",
+  "checks": {
+    "serie_soma_1070": true,
+    "carreiras_soma_1070": true,
+    "metodos_soma_1070": true,
+    "recuperados_soma_638": true,
+    "armas_soma_663": true,
+    "cbo_depois_igual_antes_mais_recuperado": true,
+    "sim_2019_proximo_fbsp": true,
+    "modelos_sem_intervalo_invertido": true,
+    "modelos_p_validos": true
+  },
+  "falhas": []
+}
